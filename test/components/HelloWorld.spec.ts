@@ -1,6 +1,5 @@
 import HelloWorld from '@/components/HelloWorld.vue'
 import { mount } from '@vue/test-utils'
-import { describe, expect, it } from 'vitest'
 
 describe('HelloWorld', () => {
   it('render props value correctly', () => {
